@@ -1,11 +1,15 @@
-## Architecture Website
+## Sarv-Architecture Website
 =======================
-The website for a **Architecture** company
+The website for the **Sarv-Architecture** company
 
 ### Contributing
 
-* Check our projec's website and report any bugs or ideas in [issues](https://github.com/1schools-projects/ciw-des-30-d-repo/issues)
+* Check our projec's website and report any bugs or ideas in [issues](https://github.com/1schools-projects/Sarv-Architecture/issues)
 * Clone this project and check source code
+```
+      https://github.com/1schools-projects/Sarv-Architecture
+```
+
 * Fork this for your self and do some develope and pull request to us
 
 ### Buliding Technologies
@@ -13,6 +17,7 @@ The website for a **Architecture** company
 * [HTML5](http://ali.md/wiki/html5)
 * [CSS3](http://ali.md/css3ref)
 * [html5shiv](http://ali.md/html5shiv)
+* [1Styles](http://ali.md/1styles)
 * [JavaScript](http://ali.md/wiki/javascript)
 
 ### The Team
@@ -26,8 +31,8 @@ The website for a **Architecture** company
 
 Copyright (c) 2012, The [sarv-arch.com](http://sarv-arch.com) code and website is released under a [MIT License](http://opensource.org/licenses/MIT).
 
-*September 2012*
+      ( September 2012 )
 
 ### A 1devs website
 
-Produced by 1Devs Web Department 
+Produced by 1Devs Web Department
