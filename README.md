@@ -1,18 +1,18 @@
 ## Sarv-Architecture Website
 =======================
-The website for the **Sarv-Architecture** company
+The website for the **[Sarv-Architecture](http://sarv-arch.com)** company
 
 ### Contributing
 
-* Check our projec's website and report any bugs or ideas in [issues](https://github.com/1schools-projects/Sarv-Architecture/issues)
-* Clone this project and check source code
+* Check our project's website and report any bugs or ideas in [issues](https://github.com/1schools-projects/Sarv-Architecture/issues)
+* Clone our project and check the source codes from [here](https://github.com/1schools-projects/Sarv-Architecture)
 ```
       https://github.com/1schools-projects/Sarv-Architecture
 ```
 
-* Fork this for your self and do some develope and pull request to us
+* Fork this for yourself and do some developing and pull request to us, if you want !
 
-### Buliding Technologies
+### Building Technologies
 
 * [HTML5](http://ali.md/wiki/html5)
 * [CSS3](http://ali.md/css3ref)
